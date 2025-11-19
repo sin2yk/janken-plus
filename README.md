@@ -1,6 +1,4 @@
 # janken-plus
-こんな感じでどうかな。テンプレそのまま埋めた README 出しておくね👇
-
 ```markdown
 # ①課題名
 satellite521｜5-2-1点制じゃんけんAIバトル
