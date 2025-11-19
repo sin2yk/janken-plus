@@ -9,7 +9,7 @@ satellite521｜5-2-1点制じゃんけんAIバトル
 - AIの手の出し方は「一様分布」「ナッシュ均衡」「手動カスタム」の3種類から選択でき、戦略ミックスと乱択の仕組みを体験できる。
 
 ## ③アプリのデプロイURL
-- https://sin2yk.github.io/janken-plus/
+https://sin2yk.github.io/janken-plus/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
